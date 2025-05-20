@@ -13,6 +13,11 @@ A smart navigation system for self-driving vehicles that efficiently picks up mu
 - Interactive map with color-coded passenger status updates
 - Distance and time optimization algorithms
 
+ Requirements :
+- Python 3.6+
+- NumPy
+- Matplotlib
+
 Available commands:
 
 1. Status - View current system status
