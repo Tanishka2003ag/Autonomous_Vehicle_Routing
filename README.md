@@ -15,9 +15,9 @@ A smart navigation system for self-driving vehicles that efficiently picks up mu
 
 Available commands:
 
-Status - View current system status
-Pickup <node_id> - Pick up a passenger
-Drop <node_id> - Drop off a passenger
-Auto - Run in autonomous mode
-Visualize - Open visualization window
-Exit - Exit the program
+1. Status - View current system status
+2. Pickup <node_id> - Pick up a passenger
+3. Drop <node_id> - Drop off a passenger
+4. Auto - Run in autonomous mode
+5. Visualize - Open visualization window
+6. Exit - Exit the program
